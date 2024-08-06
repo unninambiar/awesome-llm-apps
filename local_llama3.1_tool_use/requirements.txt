@@ -2,3 +2,4 @@ streamlit
 ollama 
 phidata
 yfinance
+serpapi
